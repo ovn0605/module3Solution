@@ -1,0 +1,55 @@
+
+/** HEADER **/
+#header-nav {
+  background-color: #aaaaaa;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand > a{
+   font-size: 1.5em;
+   color: black;
+}
+section {
+	border:1px;
+	border-style: solid;
+	border-color: black;
+	float:left;
+	height:1000px;
+	margin:0px 5px 5px 5px;
+	padding: 10px;
+	overflow: hidden;
+	 }
+
+
+.section_title {
+	font-size: 1.6em;
+	height:20px;
+	margin: 0px 0px 10px 0px;
+	padding:0px;
+	}
+
+
+#chicken{
+	color: blue;
+	background-color: #eedd00
+}
+
+
+#beef{
+	color: red;
+	background-color: #11dd67
+}
+
+
+
+#sushi{
+	color: black;
+	background-color: #992267
+}
+
+.visible-xs{
+	width:100%;
+	background-color: white;
+	border:1px solid;
+	}
